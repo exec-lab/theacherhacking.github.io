@@ -1,2 +1,2 @@
-# theacherhacking.github.io
+# theteacherhacking.github.io
 My Blog
